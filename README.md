@@ -9,7 +9,7 @@ The game leverages Unreal Engine 5's powerful features, utilizing ambient and lu
 Players navigate through intricately designed levels within the crypt, employing various tactics and utilizing game mechanics to progress towards their objective.
 The game environment, crafted entirely using Epic Assets in Unreal Editor, offers a rich tapestry of different lighting schemes, creating a visually dynamic and engaging gameplay experience.
 
-# Implementation Features:
+**Implementation Features:**
 The implementation of Crypt Raider involves extensive use of C++ for core functionalities such as line tracing, object manipulation, and actor movement. These components are seamlessly integrated with Unreal Engine 5's Blueprint system, empowering developers to refine gameplay mechanics and optimize performance while maintaining a high level of interactivity.
 
 
