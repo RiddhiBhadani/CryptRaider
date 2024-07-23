@@ -1,5 +1,9 @@
 # CryptRaider
-CryptRaider - an Unreal Project with C++
+
+**Game Engine:** Unreal Engine 5  
+**Language and IDE:** C++ using Visual Studio Code
+**Visual Scripting:** Blueprint
+
 # Overview
 Crypt Raider is an adventure game set in a mysterious crypt filled with secret walls, jail cells, chambers, hidden passages, and a mausoleum. 
 Players take on the role of a raider tasked with stealing a coveted treasure—the golden illuminated Statue—from the heart of this enigmatic crypt. 
