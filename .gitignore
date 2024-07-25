@@ -75,8 +75,4 @@ DerivedDataCache/*
 
 # Ignore the following folder 
 Binaries/
-Content/
-DerivedDataCache/
-Intermediate/
-Saved/
-Source/
+Content/MedievalDungeon/*
