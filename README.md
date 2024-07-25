@@ -1,6 +1,9 @@
 # CryptRaider
+
+
 **Language and IDE:** C++ using Visual Studio Code
 **Visual Scripting:** Blueprint
+
 
 ### Overview
 Crypt Raider is an adventure game set in a mysterious crypt filled with secret walls, jail cells, chambers, hidden passages, and a mausoleum. 
