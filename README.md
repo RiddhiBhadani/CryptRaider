@@ -1,8 +1,7 @@
 # CryptRaider
 
-
 **Language and IDE:** C++ using Visual Studio Code
-**Visual Scripting:** Blueprint
+<br/>**Visual Scripting:** Blueprint
 
 
 ### Overview
